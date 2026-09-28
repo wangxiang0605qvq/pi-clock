@@ -27,3 +27,7 @@ cp clock.ts ~/.pi/agent/extensions/clock.ts
 | `/clock` | 开关时钟 |
 | `/clock 12` | 12 小时制 |
 | `/clock 24` | 24 小时制 |
+
+## 版权
+
+著作权归作者所有，保留一切权利。详见 [LICENSE](LICENSE)。
