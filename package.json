@@ -1,0 +1,18 @@
+{
+  "name": "pi-clock",
+  "version": "1.0.0",
+  "description": "pi（pi-coding-agent）扩展：在底部状态栏实时显示日期与时间，每秒刷新。",
+  "keywords": [
+    "pi-package",
+    "pi",
+    "pi-coding-agent"
+  ],
+  "pi": {
+    "extensions": [
+      "./clock.ts"
+    ]
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*"
+  }
+}

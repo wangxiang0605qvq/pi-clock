@@ -4,7 +4,6 @@
  * 在 pi 底部状态栏实时显示当前日期与时间，每秒刷新一次。
  *
  * 安装位置：~/.pi/agent/extensions/clock.ts（全局 + 自动发现，可用 /reload 热重载）
- *          本机实际目录：D:\pihub\.pi\agent\extensions\clock.ts
  *
  * 命令：
  *   /clock        开启 / 关闭时钟
